@@ -1,6 +1,4 @@
 CRN Coursework 1 - README
-Student: Dan Georgiev
-Email: dan.georgiev@city.ac.uk
 
 BUILD INSTRUCTIONS
 ------------------
